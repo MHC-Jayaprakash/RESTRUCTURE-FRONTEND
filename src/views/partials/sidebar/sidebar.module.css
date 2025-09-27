@@ -113,7 +113,7 @@
 }
 
 
-}
+
 
 .collapseBtn:focus {
   color: #fff;
@@ -200,7 +200,7 @@
   background: var(--sidebar-active) !important;
 
   color: var(--sidebar-active-text) !important;
-=======
+
   color: #ffffff !important;
 
   font-weight: 600;
@@ -212,7 +212,7 @@
   background: var(--sidebar-active) !important;
 
   color: var(--sidebar-active-text) !important;
-=======
+
   color: #ffffff !important;
 
   transform: translateX(0);
